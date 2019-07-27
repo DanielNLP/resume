@@ -93,7 +93,7 @@ UI Developer
 **Millennial Media, Baltimore, MD**  
 Web Developer  
 *February 2014 &ndash; April 2015*  
-- Extended the capabilities of the existing CMS powering millennialmedia.com by creating modules and templates (CSS, JavaScript, MySQL)
+- Extended capabilities of the existing CMS powering millennialmedia.com by creating modules and templates (CSS, JavaScript, MySQL)
 - Integrated Smartling as a multilingual translation solution for millennialmedia.com (CSS, JavaScript, PHP)
 - Developed IOS and Android mobile applications (AngularJS, JavaScript, SASS)
 - Developed event portal that enables users to create RSVP and information landing pages (AngularJS, JavaScript, MySQL, SASS, SilverStripe)
